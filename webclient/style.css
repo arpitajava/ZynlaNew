@@ -1,0 +1,16 @@
+#button
+{
+	margin-top: 8px;
+    margin-left: 139px;
+}
+#item{
+	text-align: center;
+}
+#span{
+	font-weight: bold;
+	color: black;
+}
+.ui.inverted.segment
+{
+	height: 52px;
+}

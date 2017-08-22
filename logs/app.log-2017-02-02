@@ -1,0 +1,73 @@
+[02 02 2017 04:01:17.243] [DEBUG] - Inside user post
+[02 02 2017 04:02:11.807] [DEBUG] - Inside user post
+[02 02 2017 04:03:33.956] [DEBUG] - Inside user post
+[02 02 2017 04:05:23.036] [DEBUG] - Inside user post
+[02 02 2017 04:15:37.874] [DEBUG] - Inside user post
+[02 02 2017 04:16:45.946] [DEBUG] - Inside user post
+[02 02 2017 04:16:45.977] [DEBUG] - Inside user post
+[02 02 2017 04:16:45.988] [DEBUG] - Inside user post
+[02 02 2017 04:18:21.943] [DEBUG] - Inside user post
+[02 02 2017 04:18:21.974] [DEBUG] - Inside user post
+[02 02 2017 04:18:21.986] [DEBUG] - Inside user post
+[02 02 2017 04:22:34.276] [DEBUG] - Inside user post
+[02 02 2017 04:22:34.307] [DEBUG] - Inside user post
+[02 02 2017 04:22:34.316] [DEBUG] - Inside user post
+[02 02 2017 05:57:19.455] [DEBUG] - Inside user post
+[02 02 2017 05:57:19.483] [DEBUG] - Inside user post delete
+[02 02 2017 05:57:19.494] [DEBUG] - Inside user post
+[02 02 2017 06:02:00.626] [DEBUG] - Inside user post
+[02 02 2017 06:02:00.652] [DEBUG] - Inside user post
+[02 02 2017 06:02:00.666] [DEBUG] - Inside user post delete
+[02 02 2017 06:05:32.440] [DEBUG] - Inside user post
+[02 02 2017 06:05:32.467] [DEBUG] - Inside user post
+[02 02 2017 06:05:32.480] [DEBUG] - Inside user post delete
+[02 02 2017 06:06:16.193] [DEBUG] - Inside user post
+[02 02 2017 06:06:16.219] [DEBUG] - Inside user post
+[02 02 2017 06:06:16.232] [DEBUG] - Inside user post delete
+[02 02 2017 06:08:26.401] [DEBUG] - Inside user post
+[02 02 2017 06:08:26.428] [DEBUG] - Inside user post
+[02 02 2017 06:08:26.441] [DEBUG] - Inside user post delete
+[02 02 2017 06:09:07.620] [DEBUG] - Inside user post
+[02 02 2017 06:09:07.650] [DEBUG] - Inside user post
+[02 02 2017 06:09:07.663] [DEBUG] - Inside user post delete
+[02 02 2017 06:15:41.859] [DEBUG] - Inside user post
+[02 02 2017 06:15:41.886] [DEBUG] - Inside user post
+[02 02 2017 06:18:53.281] [DEBUG] - Inside user post
+[02 02 2017 06:18:53.307] [DEBUG] - Inside user post
+[02 02 2017 06:20:00.089] [DEBUG] - Inside user post
+[02 02 2017 06:20:00.116] [DEBUG] - Inside user post
+[02 02 2017 06:20:00.130] [DEBUG] - Inside user post delete
+[02 02 2017 06:20:53.787] [DEBUG] - Inside user post
+[02 02 2017 06:20:53.813] [DEBUG] - Inside user post
+[02 02 2017 06:20:53.826] [DEBUG] - Inside user post delete
+[02 02 2017 06:22:55.762] [DEBUG] - Inside user post
+[02 02 2017 06:22:55.789] [DEBUG] - Inside user post
+[02 02 2017 06:22:55.802] [DEBUG] - Inside user post delete
+[02 02 2017 06:23:58.010] [DEBUG] - Inside user post
+[02 02 2017 06:23:58.036] [DEBUG] - Inside user post
+[02 02 2017 06:23:58.048] [DEBUG] - Inside user post delete
+[02 02 2017 06:24:50.197] [DEBUG] - Inside user post
+[02 02 2017 06:24:50.222] [DEBUG] - Inside user post
+[02 02 2017 06:24:50.235] [DEBUG] - Inside user post delete
+[02 02 2017 06:27:49.904] [DEBUG] - Inside user post
+[02 02 2017 06:27:49.930] [DEBUG] - Inside user post
+[02 02 2017 06:27:49.942] [DEBUG] - Inside user post delete
+[02 02 2017 06:28:42.063] [DEBUG] - Inside user post
+[02 02 2017 06:28:42.089] [DEBUG] - Inside user post
+[02 02 2017 06:28:42.103] [DEBUG] - Inside user post delete
+[02 02 2017 09:59:54.220] [DEBUG] - Inside user post
+[02 02 2017 09:59:54.265] [DEBUG] - Inside user post delete
+[02 02 2017 10:01:02.024] [DEBUG] - Inside user post
+[02 02 2017 10:01:02.070] [DEBUG] - Inside user post delete
+[02 02 2017 10:01:57.750] [DEBUG] - Inside user post
+[02 02 2017 10:01:57.782] [DEBUG] - Inside user post
+[02 02 2017 10:01:57.791] [DEBUG] - Inside user post delete
+[02 02 2017 10:53:38.554] [DEBUG] - Inside user post
+[02 02 2017 10:57:01.299] [DEBUG] - Inside user post
+[02 02 2017 10:58:46.756] [DEBUG] - Inside user post
+[02 02 2017 11:00:21.499] [DEBUG] - Inside user post
+[02 02 2017 11:04:22.832] [DEBUG] - Inside user post
+[02 02 2017 11:05:45.568] [DEBUG] - Inside user post
+[02 02 2017 11:09:01.928] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[02 02 2017 11:09:15.127] [DEBUG] - Inside user post
+[02 02 2017 11:09:39.371] [DEBUG] - Mongoose is now disconnected..!

@@ -1,0 +1,31 @@
+[21 03 2017 15:30:53.273] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 15:45:45.727] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 15:45:49.251] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 15:46:05.538] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 15:46:47.247] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 15:53:26.185] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 15:54:56.017] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 16:59:14.986] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 16:59:24.268] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 16:59:27.909] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 17:01:59.217] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:06:40.866] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 17:06:45.289] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:07:29.912] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 17:07:33.620] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:10:10.502] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 17:10:14.918] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:21:36.169] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 17:21:42.282] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:45:15.852] [DEBUG] - inside saveToProfile
+[21 03 2017 17:45:16.216] [DEBUG] - Inside get
+[21 03 2017 17:45:30.925] [DEBUG] - inside saveToProfile
+[21 03 2017 17:45:31.267] [DEBUG] - Inside get
+[21 03 2017 17:46:16.510] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 17:46:21.519] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:46:47.184] [DEBUG] - inside saveToProfile
+[21 03 2017 17:46:47.327] [DEBUG] - Inside get
+[21 03 2017 17:52:20.411] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:52:24.580] [DEBUG] - Mongoose is now disconnected..!
+[21 03 2017 17:55:14.730] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[21 03 2017 17:55:56.236] [DEBUG] - Mongoose is now disconnected..!

@@ -1,0 +1,56 @@
+[28 03 2017 09:22:37.458] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 09:23:08.358] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 09:23:22.256] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 09:24:54.196] [DEBUG] - Mongoose is now disconnected..!
+[28 03 2017 09:24:59.928] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 09:42:58.594] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 09:44:00.525] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 09:45:35.717] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 09:53:48.270] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 10:25:50.226] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 10:28:11.113] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 10:33:58.180] [DEBUG] - inside saveToProfile
+[28 03 2017 10:33:58.349] [DEBUG] - Inside get
+[28 03 2017 10:34:00.808] [DEBUG] - inside saveToProfile
+[28 03 2017 10:34:01.295] [DEBUG] - Inside get
+[28 03 2017 10:34:02.858] [DEBUG] - inside saveToProfile
+[28 03 2017 10:34:03.111] [DEBUG] - Inside get
+[28 03 2017 10:43:25.150] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 11:06:41.493] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 11:07:49.093] [DEBUG] - Mongoose is now disconnected..!
+[28 03 2017 11:07:53.695] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 11:11:53.396] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 11:12:30.201] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 12:08:44.471] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 13:07:45.242] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 14:05:36.771] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 14:20:54.612] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 14:25:08.951] [DEBUG] - inside saveToProfile
+[28 03 2017 14:25:09.106] [DEBUG] - Inside get
+[28 03 2017 14:25:17.923] [DEBUG] - inside saveToProfile
+[28 03 2017 14:25:18.381] [DEBUG] - Inside get
+[28 03 2017 14:25:19.373] [DEBUG] - inside saveToProfile
+[28 03 2017 14:25:19.833] [DEBUG] - Inside get
+[28 03 2017 14:25:21.303] [DEBUG] - inside saveToProfile
+[28 03 2017 14:25:21.537] [DEBUG] - Inside get
+[28 03 2017 14:29:06.908] [DEBUG] - inside saveToProfile
+[28 03 2017 14:29:07.115] [DEBUG] - Inside get
+[28 03 2017 14:29:26.452] [DEBUG] - inside saveToProfile
+[28 03 2017 14:29:26.506] [DEBUG] - Inside get
+[28 03 2017 14:30:14.135] [DEBUG] - inside saveToProfile
+[28 03 2017 14:30:14.435] [DEBUG] - Inside get
+[28 03 2017 14:30:16.339] [DEBUG] - inside saveToProfile
+[28 03 2017 14:30:16.467] [DEBUG] - Inside get
+[28 03 2017 14:30:54.384] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 14:35:51.262] [DEBUG] - Mongoose is now disconnected..!
+[28 03 2017 14:44:31.121] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 14:46:52.118] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 14:49:55.755] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 14:50:47.734] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 15:41:30.176] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[28 03 2017 16:00:21.573] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[28 03 2017 16:58:29.613] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[28 03 2017 17:26:54.706] [DEBUG] - Inside display catagory
+[28 03 2017 17:27:49.110] [DEBUG] - inside saveToProfile
+[28 03 2017 17:27:49.245] [DEBUG] - Inside get
+[28 03 2017 17:33:53.205] [DEBUG] - Inside display catagory

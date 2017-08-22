@@ -1,0 +1,21 @@
+[02 04 2017 17:55:25.269] [ERROR] - Error in Mongoose connection:  { MongooseError: Ran out of retries trying to reconnect to "192.168.1.37:27017". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+    at DisconnectedError (/home/user/Documents/zynla/node_modules/mongoose/lib/error/disconnected.js:21:11)
+    at Server.<anonymous> (/home/user/Documents/zynla/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:64:31)
+    at emitOne (events.js:101:20)
+    at Server.emit (events.js:191:7)
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:317:16)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:305:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Ran out of retries trying to reconnect to "192.168.1.37:27017". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.',
+  name: 'DisconnectedError' }
+[02 04 2017 19:56:57.640] [DEBUG] - Mongoose is now disconnected..!

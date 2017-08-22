@@ -1,0 +1,321 @@
+[27 03 2017 15:16:07.948] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 15:16:43.091] [DEBUG] - inside saveToProfile
+[27 03 2017 15:16:43.144] [DEBUG] - Inside get
+[27 03 2017 15:18:16.152] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 15:18:19.628] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 15:18:52.450] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 15:19:42.412] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 15:20:49.025] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 15:32:33.260] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 15:33:21.705] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 15:36:32.679] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 16:10:27.344] [DEBUG] - inside saveToProfile
+[27 03 2017 16:10:27.481] [DEBUG] - Inside get
+[27 03 2017 16:18:20.070] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 16:25:35.242] [DEBUG] - Inside display catagory
+[27 03 2017 17:06:14.847] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 17:06:19.889] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 17:13:42.367] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 17:20:00.518] [DEBUG] - inside saveToProfile
+[27 03 2017 17:20:00.579] [DEBUG] - Inside get
+[27 03 2017 17:23:11.294] [DEBUG] - inside saveToProfile
+[27 03 2017 17:23:11.401] [DEBUG] - Inside get
+[27 03 2017 18:27:57.068] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 18:50:39.668] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.78:27017/zynla
+[27 03 2017 20:10:00.153] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:10:00.159] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.0.114:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.0.114:27017] on first connect' }
+[27 03 2017 20:10:43.852] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:10:43.855] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.0.114:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.0.114:27017] on first connect' }
+[27 03 2017 20:11:12.616] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:11:12.620] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.0.114:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.0.114:27017] on first connect' }
+[27 03 2017 20:11:16.908] [INFO] - Mongoose disconnected on process termination
+[27 03 2017 20:11:25.795] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:11:25.798] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.0.114:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.0.114:27017] on first connect' }
+[27 03 2017 20:12:24.142] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:12:24.148] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.0.114:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.0.114:27017] on first connect' }
+[27 03 2017 20:17:17.820] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:17:17.823] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.43.9:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.43.9:27017] on first connect' }
+[27 03 2017 20:17:33.064] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:17:33.067] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.43.9:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.43.9:27017] on first connect' }
+[27 03 2017 20:17:55.343] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:17:55.347] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.43.9:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.43.9:27017] on first connect' }
+[27 03 2017 20:18:02.453] [INFO] - Mongoose disconnected on process termination
+[27 03 2017 20:18:08.395] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:18:08.398] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.43.9:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.43.9:27017] on first connect' }
+[27 03 2017 20:18:43.094] [INFO] - Mongoose disconnected on process termination
+[27 03 2017 20:18:46.038] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:18:46.041] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.43.9:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.43.9:27017] on first connect' }
+[27 03 2017 20:19:06.977] [INFO] - Mongoose disconnected on process termination
+[27 03 2017 20:19:09.985] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:19:09.989] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.43.9:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.43.9:27017] on first connect' }
+[27 03 2017 20:20:57.960] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:20:57.967] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[27 03 2017 20:27:33.214] [INFO] - Mongoose disconnected on process termination
+[27 03 2017 20:27:47.660] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:27:47.663] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[27 03 2017 20:27:55.643] [INFO] - Mongoose disconnected on process termination
+[27 03 2017 20:30:20.409] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:30:20.413] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.43.9:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+    at Object.onceWrapper (events.js:293:19)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:188:7)
+    at Socket._onTimeout (net.js:354:8)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.43.9:27017] on first connect' }
+[27 03 2017 20:34:38.993] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 20:34:39.001] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:191:7)
+    at Connection.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Object.onceWrapper (events.js:293:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:194:7)
+    at Socket.<anonymous> (/home/user/Documents/zynla/node_modules/mongodb-core/lib/connection/connection.js:175:49)
+    at Object.onceWrapper (events.js:293:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1289:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[27 03 2017 20:36:06.331] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 20:36:19.007] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 20:40:48.868] [DEBUG] - Inside display catagory
+[27 03 2017 20:44:23.819] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 21:11:04.286] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 21:11:53.780] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 21:23:33.973] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 21:27:52.844] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 21:28:18.341] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 21:45:37.706] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 21:49:14.275] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:00:51.054] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:02:27.164] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:02:36.048] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:05:26.619] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:07:31.747] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:51:29.860] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:56:40.673] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[27 03 2017 22:58:09.235] [DEBUG] - Mongoose is now disconnected..!
+[27 03 2017 22:58:13.791] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla

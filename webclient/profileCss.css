@@ -1,0 +1,26 @@
+.butstyle{
+  background-color: #B2242E !important;
+}
+.chatcard {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #B2242E;
+  font-family: Segoe UI;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.chatcardhuman {
+  padding-left: 500px;
+  padding-right: 20px;
+  color: #07580C;
+  font-family: Segoe UI;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.chatinput {
+  margin-top: 10px;
+}

@@ -1,0 +1,76 @@
+<<<<<<< HEAD
+[02 03 2017 08:43:28.580] [DEBUG] - Inside display catagory
+[02 03 2017 08:43:42.254] [DEBUG] - Inside display catagory
+[02 03 2017 08:45:45.743] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 08:46:36.893] [DEBUG] - Inside display catagory
+[02 03 2017 08:47:57.334] [DEBUG] - Inside display catagory
+[02 03 2017 08:51:15.764] [DEBUG] - Inside display catagory
+[02 03 2017 14:33:37.963] [DEBUG] - Inside display catagory
+[02 03 2017 14:35:25.228] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 14:42:22.471] [DEBUG] - Inside display catagory
+[02 03 2017 14:42:57.466] [DEBUG] - Inside display catagory
+[02 03 2017 14:45:47.655] [DEBUG] - Inside display catagory
+[02 03 2017 14:49:47.526] [DEBUG] - Inside display catagory
+[02 03 2017 14:51:35.822] [DEBUG] - Inside display catagory
+[02 03 2017 14:58:58.267] [DEBUG] - Inside display catagory
+[02 03 2017 14:59:47.321] [DEBUG] - Inside display catagory
+[02 03 2017 15:25:14.591] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:29:50.799] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:31:46.187] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:32:32.204] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:39:11.344] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:48:26.381] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:52:26.703] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:54:31.856] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 15:58:05.517] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:00:37.824] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:04:34.000] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:12:21.170] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:30:38.806] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:31:38.520] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:32:41.835] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:33:20.105] [DEBUG] - Inside display catagory
+[02 03 2017 16:35:02.220] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:37:43.626] [DEBUG] - Inside display catagory
+[02 03 2017 16:45:20.924] [DEBUG] - Inside display catagory
+[02 03 2017 16:47:00.202] [DEBUG] - Mongoose is now disconnected..!
+[02 03 2017 16:47:15.621] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:48:44.595] [DEBUG] - Inside display catagory
+[02 03 2017 16:49:23.449] [DEBUG] - Inside display catagory
+[02 03 2017 16:50:58.555] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:56:18.763] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 16:59:18.624] [DEBUG] - Inside display catagory
+[02 03 2017 17:03:52.122] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:05:13.932] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:07:11.620] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:09:49.536] [DEBUG] - Mongoose is now disconnected..!
+[02 03 2017 17:10:04.521] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:21:20.024] [DEBUG] - Mongoose is now disconnected..!
+[02 03 2017 17:21:34.190] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:35:53.840] [DEBUG] - Inside display catagory
+[02 03 2017 17:36:49.888] [DEBUG] - Inside display catagory
+[02 03 2017 17:37:06.779] [DEBUG] - Mongoose is now disconnected..!
+[02 03 2017 17:37:20.777] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:37:55.718] [DEBUG] - Inside display catagory
+[02 03 2017 17:43:39.197] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:45:30.832] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:47:01.752] [DEBUG] - Inside display catagory
+[02 03 2017 17:54:21.726] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:54:26.086] [DEBUG] - Inside display catagory
+[02 03 2017 17:55:40.290] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 17:58:58.175] [DEBUG] - Inside display catagory
+[02 03 2017 18:04:19.992] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 18:09:55.468] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 18:10:36.668] [DEBUG] - Inside display catagory
+[02 03 2017 18:17:43.293] [DEBUG] - Inside display catagory
+[02 03 2017 18:26:44.213] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 18:27:57.448] [DEBUG] - Inside display catagory
+[02 03 2017 18:31:44.261] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 18:32:17.136] [DEBUG] - Inside display catagory
+[02 03 2017 18:34:22.875] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[02 03 2017 18:35:13.493] [DEBUG] - Inside display catagory
+[02 03 2017 18:35:39.172] [DEBUG] - Inside display catagory
+=======
+[02 03 2017 12:50:47.665] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[02 03 2017 12:57:36.613] [DEBUG] - Mongoose is now disconnected..!
+>>>>>>> c3e4983e7a74f18ff16420a21047a8c2eebda4ac

@@ -1,0 +1,247 @@
+<<<<<<< HEAD
+[06 03 2017 02:38:38.699] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 02:39:48.911] [DEBUG] - Inside display catagory
+[06 03 2017 02:41:16.828] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 03:57:32.954] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 04:01:22.440] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 04:05:25.724] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 04:06:16.052] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 04:09:20.953] [DEBUG] - Inside display catagory
+[06 03 2017 04:10:30.026] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 04:10:47.187] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 04:11:49.236] [DEBUG] - Inside display catagory
+[06 03 2017 04:13:22.859] [DEBUG] - Inside display catagory
+[06 03 2017 04:13:53.117] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 04:28:22.580] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 04:28:22.604] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+=======
+[06 03 2017 10:14:25.061] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:22:21.632] [DEBUG] - Inside display catagory
+[06 03 2017 10:24:20.718] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:25:49.923] [DEBUG] - Inside display catagory
+[06 03 2017 10:44:00.173] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:46:37.391] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:47:51.592] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:50:59.279] [DEBUG] - inside saveToProfile
+[06 03 2017 10:52:59.556] [DEBUG] - inside saveToProfile
+[06 03 2017 10:54:32.694] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:02:29.316] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:05:00.563] [DEBUG] - inside saveToProfile
+[06 03 2017 11:05:05.971] [DEBUG] - inside saveToProfile
+[06 03 2017 11:07:01.181] [DEBUG] - inside saveToProfile
+[06 03 2017 11:07:06.621] [DEBUG] - inside saveToProfile
+[06 03 2017 11:24:12.729] [DEBUG] - inside saveToProfile
+[06 03 2017 11:24:20.450] [DEBUG] - inside saveToProfile
+[06 03 2017 11:24:33.698] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 11:24:56.771] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:26:38.015] [DEBUG] - inside saveToProfile
+[06 03 2017 11:27:13.374] [DEBUG] - inside saveToProfile
+[06 03 2017 11:28:38.301] [DEBUG] - inside saveToProfile
+[06 03 2017 11:29:13.779] [DEBUG] - inside saveToProfile
+[06 03 2017 11:31:19.817] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:36:15.821] [DEBUG] - inside saveToProfile
+[06 03 2017 11:37:51.541] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:39:29.563] [DEBUG] - inside saveToProfile
+[06 03 2017 11:41:02.603] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:41:41.104] [DEBUG] - inside saveToProfile
+[06 03 2017 11:44:13.907] [DEBUG] - inside saveToProfile
+[06 03 2017 11:44:23.368] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 11:44:50.189] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:46:26.913] [DEBUG] - inside saveToProfile
+[06 03 2017 11:46:31.289] [DEBUG] - inside saveToProfile
+[06 03 2017 11:46:46.083] [DEBUG] - inside saveToProfile
+[06 03 2017 11:46:56.889] [DEBUG] - inside saveToProfile
+[06 03 2017 11:47:01.652] [DEBUG] - inside saveToProfile
+[06 03 2017 11:48:21.321] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:50:59.249] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:51:16.066] [DEBUG] - inside saveToProfile
+[06 03 2017 11:52:23.003] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:53:12.639] [DEBUG] - inside saveToProfile
+[06 03 2017 11:56:37.358] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:56:52.742] [DEBUG] - inside saveToProfile
+[06 03 2017 11:57:26.319] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 11:57:35.383] [DEBUG] - inside saveToProfile
+[06 03 2017 11:57:40.248] [DEBUG] - Inside get
+[06 03 2017 11:58:42.985] [DEBUG] - inside saveToProfile
+[06 03 2017 11:58:43.383] [DEBUG] - Inside get
+[06 03 2017 12:06:53.226] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 12:11:47.813] [DEBUG] - inside saveToProfile
+[06 03 2017 12:11:48.030] [DEBUG] - Inside get
+[06 03 2017 12:25:52.642] [DEBUG] - inside saveToProfile
+[06 03 2017 12:26:23.713] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 12:26:46.273] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 12:27:49.601] [DEBUG] - inside saveToProfile
+[06 03 2017 12:27:51.832] [DEBUG] - Inside get
+[06 03 2017 13:00:58.508] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 15:26:01.399] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 15:26:01.645] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.60:27017] on first connect
+    at Pool.<anonymous> (/vagrant/Zynla/Zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/Zynla/Zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/Zynla/Zynla/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+>>>>>>> 39dc9fd9536651409955070d8d22162f235f4ff5
+    at Socket.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:339:8)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+  name: 'MongoError',
+<<<<<<< HEAD
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[06 03 2017 04:33:45.165] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 04:33:45.226] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+    at Socket.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:339:8)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[06 03 2017 04:36:18.332] [INFO] - Mongoose disconnected on process termination
+[06 03 2017 04:38:21.453] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 04:38:21.478] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+    at Socket.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:339:8)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[06 03 2017 04:46:35.971] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 04:46:36.031] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+    at Socket.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:339:8)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[06 03 2017 04:47:11.014] [INFO] - Mongoose disconnected on process termination
+[06 03 2017 04:50:01.168] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 04:50:01.226] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [192.168.1.78:27017] on first connect
+    at Pool.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/topologies/server.js:326:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/gourabexpress/Zynla/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+    at Socket.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:339:8)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+  name: 'MongoError',
+  message: 'failed to connect to server [192.168.1.78:27017] on first connect' }
+[06 03 2017 04:51:09.143] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 03 2017 04:52:22.068] [DEBUG] - Inside display catagory
+[06 03 2017 04:54:11.068] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 03 2017 04:55:16.495] [DEBUG] - Inside display catagory
+[06 03 2017 04:57:43.841] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 03 2017 04:59:25.046] [DEBUG] - Inside display catagory
+[06 03 2017 05:09:50.701] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 05:11:06.978] [DEBUG] - Inside display catagory
+[06 03 2017 05:11:44.431] [DEBUG] - Inside display catagory
+[06 03 2017 05:16:55.835] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 06:03:52.236] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 06:05:08.846] [DEBUG] - Inside display catagory
+[06 03 2017 06:08:42.953] [DEBUG] - Inside display catagory
+[06 03 2017 06:18:56.601] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/ZynlaAocial
+[06 03 2017 06:26:26.581] [DEBUG] - Inside display catagory
+[06 03 2017 06:28:21.786] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 06:29:35.009] [DEBUG] - Inside display catagory
+[06 03 2017 07:14:07.985] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 09:02:41.898] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 09:05:15.093] [DEBUG] - Inside display catagory
+[06 03 2017 09:09:33.510] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 09:17:30.964] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 09:53:08.078] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 09:53:34.443] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 09:53:54.243] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 09:55:54.475] [DEBUG] - Inside display catagory
+[06 03 2017 10:10:58.017] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 10:13:11.122] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:20:55.519] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 10:21:17.431] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:23:02.334] [DEBUG] - Inside display catagory
+[06 03 2017 10:30:12.965] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 10:30:26.775] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:40:39.150] [DEBUG] - Inside display catagory
+[06 03 2017 10:53:16.707] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:55:50.474] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:57:15.413] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 10:58:38.312] [DEBUG] - Inside display catagory
+[06 03 2017 11:01:07.036] [DEBUG] - Inside display catagory
+[06 03 2017 12:02:27.587] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 12:06:57.563] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 12:08:43.191] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 12:11:02.169] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 12:14:00.812] [DEBUG] - Inside display catagory
+[06 03 2017 12:17:27.950] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 12:23:43.023] [DEBUG] - Mongoose is now connected to  mongodb://192.168.1.60:27017/zynla
+[06 03 2017 12:28:09.716] [DEBUG] - Inside display catagory
+[06 03 2017 12:40:06.890] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 17:59:08.685] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 18:01:54.635] [DEBUG] - Inside display catagory
+[06 03 2017 18:02:36.157] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 18:03:26.810] [DEBUG] - Inside display catagory
+[06 03 2017 18:04:32.598] [DEBUG] - Inside display catagory
+[06 03 2017 18:05:22.889] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 18:06:12.667] [DEBUG] - Inside display catagory
+[06 03 2017 18:11:02.373] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 18:13:55.956] [DEBUG] - Inside display catagory
+=======
+  message: 'failed to connect to server [192.168.1.60:27017] on first connect' }
+[06 03 2017 15:30:09.160] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 03 2017 17:02:07.209] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 17:03:33.700] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+[06 03 2017 17:05:34.111] [DEBUG] - Mongoose is now disconnected..!
+[06 03 2017 17:05:55.935] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/ZynlaAocial
+>>>>>>> 39dc9fd9536651409955070d8d22162f235f4ff5

@@ -1,0 +1,68 @@
+.cardsFav {
+     width:700px !important;
+     margin-left: 150px !important;
+   }
+   .imageAns {
+     border-radius: 50%;
+   }
+   .ansWidth {
+     width:98%;
+     cursor: pointer;
+
+   }
+   .queTitle{
+     cursor: pointer;
+   }
+   .anspad {
+     margin: 5px 10px 5px 20px !important;
+     /*background-color: #F1F8FB !important;*/
+   }
+   .paradate {
+     float:left
+   }
+   .plusbtn {
+     /*position: relative;
+     margin-left: 55% !important;*/
+     float: right;
+   }
+   .heading{
+  line-height: 1.6em;
+  font-family: 'q_serif',Georgia,Times,"Times New Roman",serif;
+  }
+  .question{
+  font-family: 'q_serif',Georgia,Times,"Times New Roman",serif;
+  }
+   .checkmarkbtn {
+     position: relative;
+     margin-left: 90% !important;
+   }
+   .ques {
+     color: white !important;
+   }
+.plusbtnhover{
+  background-color: : #BE252A ;
+  color: #FFFFFF;
+  cursor: pointer !important;
+}
+.btnfont{
+  font-size: 16px !important;
+}
+.rteEditor{
+  height: 230px !important;
+  overflow: scroll;
+}
+.errorCss{
+  margin: 10px 0px;
+padding:12px;
+color: #D8000C;
+background-color: #FFBABA;
+}
+.snackbarMsg{
+  margin-left: 320px!important;
+  z-index: 5!important;
+}
+.foferror{
+  background-size: cover;
+  margin-left: 30% !important;
+  margin-top: 10% !important;
+}

@@ -1,0 +1,361 @@
+#divStyle {
+   background-color:   #B2242E ;
+   color: white !important;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.search3 {
+  padding-left: 200px;
+}
+.search2 {
+  padding-top: 20px;
+  padding-left: 60px;
+}
+.submitbutstyle{
+  background-color: #16ab39 !important;
+  width: 200px !important;
+  margin-top: 30px !important;
+}
+.butstyle{
+  background-color: #B2242E !important;
+  color: white !important;
+}
+
+.packery {
+ margin-top: 20px !important;
+ margin-left: 20px !important;
+}
+.sidebarFontColor{
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+}
+#mount{
+ background: url("./../image/background.png");
+  background-size: 1757px 845px;
+  height: 100%;
+  width: 1757px;
+  background-repeat: no-repeat;
+  background-position: center 10%;
+  position: absolute;
+  left: calc(50% - 878.5px);
+  opacity: .9;
+  bottom: 0;
+}
+.imagePosition{
+ margin-left: 750px;
+ margin-top: 50px;
+}
+.centerPosition{
+   margin-left: 670px;
+
+}
+.contentCenter{
+ padding-top: 30px;
+}
+.tagline{
+    font-size: 19px;
+    margin-left: -100px;
+   font-weight: 400;
+   font-family: Georgia,Times,"Times New Roman",serif;
+   color: #999;
+}
+#qw{
+ originLeft: false;
+ originTop: false;
+
+ border: 2px solid smokegrey;
+    box-shadow: 5px 5px 5px rgba(34, 25, 25, 0.4);
+transition: opacity .4s ease-in-out;
+}
+#qw:hover Card:not(:hover) {
+    opacity: 0.4;
+}
+#qw:hover Card:not(:hover) {
+    opacity: 0.4;
+}
+
+.chat {
+   position: top;
+   float: right;
+   color: red;
+   background-color: blue;
+}
+.profileImageSize{
+ padding-left: 5px;
+ height: 50px;
+ width:60px;
+}
+
+.profileColor{
+   color:  #be252a ;
+}
+.bottomStyle {
+   font-size: 15px !important;
+   font-weight: bold;
+}
+
+.bottomStyle1 {
+   font-size: 15px !important;
+   font-weight: bold;
+   margin-left: 20px;
+}
+.spacing {
+ padding-top: 10px;
+ margin-left: 12px !important;
+ }
+
+.spacing.margin{
+font-size: 100px;
+}
+#iconColor{
+ background-color: #be252a !important;
+ color: white !important;
+}
+/*#spacingCategory{
+  margin-left: 40px;
+}*/
+.CardSegment{
+/*originLeft: false;
+originTop: false;*/
+width: 240px;
+border: 2px solid smokegrey;
+box-shadow: 5px 5px 5px rgba(34, 25, 25, 0.4);
+transition: opacity .4s ease-in-out;
+margin-right: 25px;
+margin-bottom: 15px;
+}
+.PaddingCards{
+ padding-top: 9px;
+ padding-left: 9px;
+ padding-right: 9px;
+}
+#PaddingCards1{
+ padding-left: 9px;
+ padding-right: 9px;
+}
+.PaddingCardsBottom{
+ margin-top: -7px;
+ padding-left: 9px;
+ padding-right: 9px;
+ margin-bottom: -4px;
+}
+#font{
+ font-family: Georgia, serif;
+ letter-spacing: 1px;
+ word-spacing: 2px;
+ color:black;
+}
+.imgsize {
+width: 250px;
+}
+#iconColor{
+ background-color: #be252a !important;
+ color: white !important;
+}
+.buttonSize {
+  height: 50px;
+  width: 100px !important;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+.buttonPosition{
+ margin-top: 20px;
+ margin-bottom: 10px;
+}
+.border {
+  border-radius: 30%;
+}
+.LinkColor {
+  color: #be252a !important;
+}
+.arrowsizeLeft{
+  height: 60px;
+  width: 60px;
+  margin-top: 35px;
+  margin-right: 20px;
+}
+.arrowsizeRight{
+  height: 60px;
+  width: 60px;
+  margin-top: 35px;
+}
+/*.arrowPosition{
+  margin-left: 50px;
+}*/
+/*.arrowsize {
+  height: 60px;
+  width: 60px;
+  margin-top: 35px;
+  margin-left: 20px;
+}*/
+.item {
+  /*z-index: 10;*/
+  padding-top: 5px;
+}
+.margin1 {
+   float: left;
+   color: teal;
+}
+.checkmark {
+   margin-left: -20px;
+}
+
+.buttonColor {
+   color: "#01541e ";
+}
+
+
+#textsize {
+   font-family: Georgia, serif;
+   font-size: 16px;
+}
+
+.logosize {
+   height: 30px;
+   width: 30px;
+   margin-top: 40%;
+   margin-left: 90%;
+   margin-right: 60%;
+   float: left;
+}
+.searchIconPosition{
+  margin-top: 11px;
+margin-bottom: 5px;
+margin-left: -3%;
+color:white;
+}
+#footer {
+   font-size: 15px;
+   font-family: Georgia, serif;
+}
+
+.spaceimg {
+   margin-top: 20px;
+}
+
+.iconSpace {
+   padding-left: 10px;
+   margin-right: 10px;
+}
+
+.search {
+   padding-left: 50px;
+   width: 70% !important;
+}
+.navSearch {
+ margin-top: 6px;
+ margin-left: 5%;
+ width:55% !important;
+ margin-bottom: 5px;
+}
+
+.chatcard {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.chatinput {
+  margin-top: 10px;
+}
+.overlay{
+  position: fixed;
+   background: url(https://static.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg);
+  -webkit-animation:100s scroll infinite linear;
+  -moz-animation:100s scroll infinite linear;
+  -o-animation:100s scroll infinite linear;
+  -ms-animation:100s scroll infinite linear;
+  animation:100s scroll infinite linear;
+  top:0;
+  left:0;
+  width:100%;
+ height:100%;
+ background-size: cover;
+}
+
+
+@-webkit-keyframes scroll{
+  100%{
+    background-position:0px -3000px;
+  }
+}
+
+@-moz-keyframes scroll{
+  100%{
+    background-position:0px -3000px;
+  }
+}
+
+@-o-keyframes scroll{
+  100%{
+    background-position:0px -3000px;
+  }
+}
+
+@-ms-keyframes scroll{
+  100%{
+    background-position:0px -3000px;
+  }
+}
+
+@keyframes scroll{
+  100%{
+    background-position:0px -3000px;
+  }
+}
+#loginButton
+{
+  width: 110px;
+  height: 50px;
+  margin-left: 159px;
+  margin-top: 20px;
+}
+.loginImage
+{
+  width: 400px;
+  height: 561px;
+  margin-top: 0px;
+  margin-bottom: -32px;
+}
+#userForm
+{
+    width: 300px;
+    margin-left: 86px;
+}
+#passForm
+{
+  width: 300px;
+  margin-left: 86px;
+}
+#loginFormButton
+{
+      margin-left: 181px;
+}
+#footer
+{
+  margin-left: 132px;
+}
+#buttonGroup
+{
+  margin-right: 20px;
+  margin-top: 28px;
+}
+.peopleimage {
+      height: 250px !important;
+    width: 350px !important;
+}
+.selectCat
+{
+  background-color: black;
+  width: 100%;
+  height: 830px;
+}
+.scroll-left {
+ height: 50px;
+ overflow: hidden;
+ position: relative;
+ color: white;
+ font-size: 22px;
+ font-weight: bold;
+ font-family: sans-serif;
+ padding: 25px;
+ margin-left: 25%;
+}
