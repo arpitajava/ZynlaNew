@@ -6,6 +6,9 @@ addons:
     organization: "arpitajava-github"
     token:
       secure: "e23c3d96b07f1695817c36dc3a34962582a926bd"
+	
+branches:
+      - master
 
 jdk:
   - oraclejdk8
