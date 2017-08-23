@@ -11,6 +11,7 @@ addons:
 script:
   - sonar-scanner
   - npm test
+  - npm gbuild
 
 cache:
   directories:
