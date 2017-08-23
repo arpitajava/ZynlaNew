@@ -3,6 +3,11 @@ sudo: required
 language: node_js
 node_js:
   - "6.9.1"
+addons:
+  sonarcloud:
+    organization: "arpitajava-github"
+    token:
+      secure: "e23c3d96b07f1695817c36dc3a34962582a926bd"
 script:
   - sonar-scanner
 
