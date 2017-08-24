@@ -16,6 +16,8 @@ script:
   - istanbul cover node_modules/mocha/bin/_mocha test/*.js
   - test -d coverage || mkdir coverage
   - istanbul report --dir coverage --include **/*coverage.json lcov
+after_success:
+  - .travis/push.sh
 
 cache:
   directories:
