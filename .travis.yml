@@ -14,7 +14,7 @@ script:
   - npm run gbuild
   - npm install -g istanbul
   - istanbul cover node_modules/mocha/bin/_mocha test/*.js
-  - test -d coverage
+  - test -d coverage || mkdir coverage
   - istanbul report --dir coverage --include **/*coverage.json lcov
 
 cache:
