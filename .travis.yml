@@ -14,10 +14,11 @@ script:
   - npm run gbuild
   - npm install -g istanbul
   - istanbul cover node_modules/mocha/bin/_mocha test/*.js
-  - test -d coverage || mkdir coverage
+  - npm install codecov nyc --save-dev
+  - nyc report --reporter=html
   - istanbul report --dir coverage --include **/*coverage.json lcov
 after_success:
-  - .travis/push.sh
+  - push.sh
 
 cache:
   directories:
