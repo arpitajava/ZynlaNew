@@ -18,6 +18,7 @@ script:
   - istanbul report --dir coverage --include **/*coverage.json lcov
 after_success:
   - push.sh
+  - ./bin/codecov -e v6.9.1 -f coverage/coverage.json
 
 cache:
   directories:
