@@ -20,8 +20,7 @@ script:
 after_script:
   - npm run-script coveralls
 after_success:
-  - push.sh
-  - ./bin/codecov -e v6.9.1 -f coverage/coverage.json
+  - ./push.sh
 
 cache:
   directories:
