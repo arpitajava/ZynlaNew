@@ -19,6 +19,8 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
 after_script:
   - npm run-script coveralls
+before_install:
+  - chmod +x build.sh
 after_success:
   - ./push.sh
 
