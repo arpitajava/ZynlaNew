@@ -17,6 +17,7 @@ script:
   - npm install coveralls --save-dev
   - istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
   - echo "Travis branch is $TRAVIS_BRANCH"
+before_script: cd ZynlaNew
 after_script:
   - npm run-script coveralls
 before_install:
