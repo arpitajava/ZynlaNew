@@ -21,10 +21,9 @@ after_success:
   -  git config --global user.email "travis@travis-ci.org"
   -  git config --global user.name "Travis CI"
   -  git add .
-  -  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  -  git commit --m "Travis build"
   -  git remote add origin https://github.com/arpitajava/ZynlaNew.git
-  -  git push --quiet --set-upstream origin master 
-  - ./bin/codecov -e v6.9.1 -f coverage/coverage.json
+  -  git push --quiet --set-upstream origin master
 
 cache:
   directories:
