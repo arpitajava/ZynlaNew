@@ -20,7 +20,7 @@ script:
 after_script:
   - npm run-script coveralls
 before_install:
-  - chmod +x build.sh
+  - chmod +x push.sh
 after_success:
   - ./push.sh
 
