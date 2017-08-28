@@ -21,9 +21,8 @@ after_script:
   - npm run-script coveralls
 before_install:
   - chmod +x push.sh
-  - cd ZynlaNew
 after_success:
-  - ./push.sh
+  - '$HOME/push.sh'
 
 cache:
   directories:
