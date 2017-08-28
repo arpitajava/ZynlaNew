@@ -7,6 +7,7 @@
     "gbuild": "gulp lint",
     "clean": "gulp clean",
     "start": "nodemon -L bin/www"
+	"coveralls": "jscoverage lib && YOURPACKAGE_COVERAGE=1 nodeunit --reporter=lcov test | coveralls"
   },
   "repository": {
     "type": "git",
@@ -121,5 +122,7 @@
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2",
     "webpack-hot-middleware": "^2.13.2"
+	"jscoverage": "~0.3.7",
+    "coveralls": "~2.0.16"
   }
 }
