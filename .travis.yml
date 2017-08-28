@@ -1,5 +1,5 @@
 dist: trusty
-sudo: required
+sudo: false
 language: node_js
 node_js:
   - "6.9.1"
@@ -16,6 +16,7 @@ script:
   - istanbul cover node_modules/mocha/bin/_mocha test/*.js
   - npm install coveralls --save-dev
   - istanbul report --dir coverage --include **/*coverage.json lcov
+  - echo "Travis branch is $TRAVIS_BRANCH"
 after_success:
   - push.sh
   - ./bin/codecov -e v6.9.1 -f coverage/coverage.json
