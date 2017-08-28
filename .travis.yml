@@ -20,7 +20,7 @@ script:
 after_success:
   -  git config --global user.email "alivewithme@gmail.com"
   -  git config --global user.name "arpitajava"
-  -  git config --global user.pass "arpitadas@123"
+  -  git config --global user.pass "Arpitadas@1234"
   -  git status
   -  git add .
   -  git commit --m "Travis build"
