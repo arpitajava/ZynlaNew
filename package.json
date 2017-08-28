@@ -7,7 +7,6 @@
     "gbuild": "gulp lint",
     "clean": "gulp clean",
     "start": "nodemon -L bin/www"
-	"coveralls": "jscoverage nodeunit --reporter=lcov test | coveralls"
   },
   "repository": {
     "type": "git",
