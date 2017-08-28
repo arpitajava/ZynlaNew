@@ -15,7 +15,8 @@ script:
   - npm install -g istanbul
   - istanbul cover node_modules/mocha/bin/_mocha test/*.js
   - npm install coveralls --save-dev
-  - istanbul report --dir coverage --include **/*coverage.json lcov
+  - istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec
+./node_modules/.bin/codecov
   - echo "Travis branch is $TRAVIS_BRANCH"
 after_success:
   - push.sh
