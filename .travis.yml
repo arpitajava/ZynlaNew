@@ -1,5 +1,5 @@
 dist: trusty
-sudo: required
+sudo: false
 language: node_js
 node_js:
   - "6.9.1"
@@ -10,6 +10,21 @@ addons:
       secure: "e23c3d96b07f1695817c36dc3a34962582a926bd"
 script:
   - sonar-scanner
+  - npm test
+  - npm run gbuild
+  - npm install -g istanbul
+  - istanbul cover node_modules/mocha/bin/_mocha test/*.js
+  - npm install coveralls --save-dev
+  - istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
+  - echo "Travis branch is $TRAVIS_BRANCH"
+after_success:
+  -  git config --global user.email "travis@travis-ci.org"
+  -  git config --global user.name "Travis CI"
+  -  git add .
+  -  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  -  git remote add origin https://github.com/arpitajava/ZynlaNew.git
+  -  git push --quiet --set-upstream origin master 
+  - ./bin/codecov -e v6.9.1 -f coverage/coverage.json
 
 cache:
   directories:

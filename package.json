@@ -1,20 +1,17 @@
 {
-  "name": "istanbul",
-  "version": "0.4.5",
+  "name": "ZynlaNew",
+  "version": "1.0.0",
   "scripts": {
-    "test": "node --harmony test/*.js",
-    "posttest": "node ./lib/cli.js check-coverage --statements 95 --branches 80",
+    "test": "mocha",
     "wpbuild": "node ./node_modules/webpack/bin/webpack.js",
     "gbuild": "gulp lint",
     "clean": "gulp clean",
-    "start": "nodemon -L bin/www"
-  },
-"bin": {
-    "istanbul": "./lib/cli.js"
+    "start": "nodemon -L bin/www",
+	"coveralls": "jscoverage lib && test/*.js nodeunit --reporter=lcov test | coveralls"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arpitajava/ZynlaNew.git"
+    "url": "git+https://github.com/stackroute-immersive-wave/ZynlaNew.git"
   },
   "keywords": [
     "zynla",
@@ -22,8 +19,7 @@
     "collaborative search",
     "semantic",
     "graph",
-    "nodejs",
-	"coverage"
+    "nodejs"
   ],
   "author": "StackRoute",
   "license": "Apache-2.0",
