@@ -1,5 +1,5 @@
 dist: trusty
-sudo: false
+sudo: required
 language: node_js
 node_js:
   - "6.9.1"
@@ -10,21 +10,6 @@ addons:
       secure: "e23c3d96b07f1695817c36dc3a34962582a926bd"
 script:
   - sonar-scanner
-  - npm test
-  - npm run gbuild
-  - npm install -g istanbul
-  - istanbul cover node_modules/mocha/bin/_mocha test/*.js
-  - npm install coveralls --save-dev
-  - istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
-  - echo "Travis branch is $TRAVIS_BRANCH"
-after_success:
-  -  git config --global user.email "alivewithme@gmail.com"
-  -  git config --global user.name "arpitajava"
-  -  git config --global user.pass "Arpitadas@1234"
-  -  git status
-  -  git add .
-  -  git commit --m "Travis build"
-  -  git push --quiet --set-upstream origin master
 
 cache:
   directories:
