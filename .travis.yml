@@ -1,5 +1,5 @@
 dist: trusty
-sudo: required
+sudo: false
 language: node_js
 node_js:
   - "6.9.1"
@@ -14,12 +14,18 @@ script:
   - npm run gbuild
   - npm install -g istanbul
   - istanbul cover node_modules/mocha/bin/_mocha test/*.js
-  - npm install codecov nyc --save-dev
-  - nyc report --reporter=html
+  - npm install coveralls --save-dev
   - istanbul report --dir coverage --include **/*coverage.json lcov
+  - echo "Travis branch is $TRAVIS_BRANCH"
+after_script:
+    - npm run-script coveralls
 after_success:
-  - push.sh
+  -  git config --global user.email "alivewithme@gmail.com"
+  -  git config --global user.name "arpitajava"
+  -  git config --global user.pass "Arpitadas1234"
+  -  git config --global -l
+  -  git status
+  -  git add .
+  -  git commit -m "Travis build"
+  -  git push --quiet --set-upstream origin maste
 
-cache:
-  directories:
-    - '$HOME/.sonar/cache'
