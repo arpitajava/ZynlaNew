@@ -7,7 +7,7 @@
     "wpbuild": "node ./node_modules/webpack/bin/webpack.js",
     "gbuild": "gulp lint",
     "clean": "gulp clean",
-    "start": "nodemon -L bin/www",
+    "start": "nodemon -L bin/www"
 	
   },
 "bin": {
