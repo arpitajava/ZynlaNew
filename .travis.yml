@@ -17,6 +17,8 @@ script:
   - npm install coveralls --save-dev
   - istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
   - echo "Travis branch is $TRAVIS_BRANCH"
+after_script:
+    - npm run-script coveralls
 after_success:
   -  git config --global user.email "travis@travis-ci.org"
   -  git config --global user.name "Travis CI"
