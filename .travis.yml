@@ -29,6 +29,3 @@ after_success:
   -  git push --quiet --set-upstream origin master 
   - ./bin/codecov -e v6.9.1 -f coverage/coverage.json
 
-cache:
-  directories:
-    - '$HOME/.sonar/cache'
