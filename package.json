@@ -8,7 +8,6 @@
     "gbuild": "gulp lint",
     "clean": "gulp clean",
     "start": "nodemon -L bin/www"
-	
   },
 "bin": {
     "istanbul": "./lib/cli.js"
