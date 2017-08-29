@@ -20,11 +20,12 @@ script:
 after_script:
     - npm run-script coveralls
 after_success:
-  -  git config --global user.email "travis@travis-ci.org"
-  -  git config --global user.name "Travis CI"
+  -  git config --global user.email "alivewithme@gmail.com"
+  -  git config --global user.name "arpitajava"
+  -  git config --global user.pass "Arpitadas@1234"
+  -  git status
   -  git add .
-  -  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
-  -  git remote add origin https://github.com/arpitajava/ZynlaNew.git
+  -  git commit -m "Travis build"
   -  git push --quiet --set-upstream origin master 
   - ./bin/codecov -e v6.9.1 -f coverage/coverage.json
 
