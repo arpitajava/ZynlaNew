@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stackroute-immersive-wave/ZynlaNew.git"
+    "url": "git+https://github.com/arpitajava/ZynlaNew.git"
   },
   "keywords": [
     "zynla",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/stackroute-immersive-wave/Zynla/issues"
   },
-  "homepage": "https://github.com/stackroute-immersive-wave/ZynlaNew#readme",
+  "homepage": "https://github.com/arpitajava/ZynlaNew#readme",
   "dependencies": {
     "amqplib": "^0.5.1",
     "array-flatten": "^2.1.1",
