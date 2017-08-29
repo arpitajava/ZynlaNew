@@ -6,14 +6,13 @@ setup_git() {
 }
 
 commit_website_files() {
-  git checkout -b gh-pages
-  git add . *.html
+  git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
-  git remote add origin-pages https://${GH_TOKEN}@github.com/arpitajava/ZynlaNew.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin-pages gh-pages 
+  git remote add origin https://github.com/arpitajava/ZynlaNew.git
+  git push --quiet --set-upstream origin master 
 }
 
 setup_git

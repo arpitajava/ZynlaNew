@@ -27,5 +27,4 @@ after_success:
   -  git status
   -  git add .
   -  git commit -m "Travis build"
-  -  git push --quiet --set-upstream origin maste
-
+  -  git push origin master

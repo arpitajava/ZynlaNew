@@ -1,16 +1,17 @@
 {
-  "name": "Zynla",
+  "name": "ZynlaNew",
   "version": "1.0.0",
   "scripts": {
     "test": "mocha",
     "wpbuild": "node ./node_modules/webpack/bin/webpack.js",
     "gbuild": "gulp lint",
     "clean": "gulp clean",
-    "start": "nodemon -L bin/www"
+    "start": "nodemon -L bin/www",
+	"coveralls": "jscoverage lib && test/*.js nodeunit --reporter=lcov test | coveralls"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stackroute-immersive-wave/Zynla.git"
+    "url": "git+https://github.com/arpitajava/ZynlaNew.git"
   },
   "keywords": [
     "zynla",
@@ -25,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/stackroute-immersive-wave/Zynla/issues"
   },
-  "homepage": "https://github.com/stackroute-immersive-wave/Zynla#readme",
+  "homepage": "https://github.com/arpitajava/ZynlaNew#readme",
   "dependencies": {
     "amqplib": "^0.5.1",
     "array-flatten": "^2.1.1",
@@ -120,6 +121,8 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2",
-    "webpack-hot-middleware": "^2.13.2"
+    "webpack-hot-middleware": "^2.13.2",
+	"jscoverage": "~0.3.7",
+    "coveralls": "~2.0.16"
   }
 }
