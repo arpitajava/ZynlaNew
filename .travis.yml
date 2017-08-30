@@ -8,14 +8,6 @@ addons:
     organization: "arpitajava-github"
     token:
       secure: "e23c3d96b07f1695817c36dc3a34962582a926bd"
-before_script:
-  - composer self-update -q
-  - if [ -n "$GH_TOKEN" ]; then composer config github-oauth.github.com ${GH_TOKEN}; fi;
-  - if [ -z "$dependencies" ]; then composer install; fi;
-  - if [ "$dependencies" = "lowest" ]; then composer update --prefer-lowest -n; fi;
-  - if [ "$dependencies" = "highest" ]; then composer update -n; fi;
-  - composer show -i
-
 script:
   - sonar-scanner
   - npm test
@@ -25,6 +17,9 @@ script:
   - npm install coveralls --save-dev
   - istanbul report --dir coverage --include **/*coverage.json lcov
   - echo "Travis branch is $TRAVIS_BRANCH"
+env:
+  global:
+  - secure: d8d1021e68506dd9d2a0595f4572115fdd6b362e
 after_script:
     - npm run-script coveralls
 after_success:
