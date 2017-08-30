@@ -19,7 +19,7 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
 env:
   global:
-  - secure: d8d1021e68506dd9d2a0595f4572115fdd6b362e
+  - secure: "f54d954bda30fefd56b5aa26b13981ad461c438b"
 after_script:
     - npm run-script coveralls
 after_success:
