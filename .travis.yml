@@ -8,5 +8,5 @@ before_install:
   - chmod +x ./coverage/arpita.json
 
 script:
-  - npm install travis-encrypt -g -a arpitajava/ZynlaNew GH_TOKEN=15a0714b8af5a5ed18979434719c2d6ea35a4b52
+  - npm install travis-encrypt -g GH_TOKEN=15a0714b8af5a5ed18979434719c2d6ea35a4b52
   - echo GH_TOKEN=15a0714b8af5a5ed18979434719c2d6ea35a4b52 | ./coverage/arpita.json -r arpitajava/ZynlaNew
