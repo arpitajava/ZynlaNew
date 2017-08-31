@@ -19,7 +19,7 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
 env:
   global:
-  - secure: "15a0714b8af5a5ed18979434719c2d6ea35a4b52"
+  - secure: "1fc3ac0a8700f017a012cec25ff044f5940225f4"
 after_script:
     - npm run-script coveralls
 after_success:
@@ -28,7 +28,7 @@ after_success:
   -  git config --global user.name "arpitajava"
   -  git config --global user.pass "Arpitadas1234"
   -  git config --global -l
-  -  git status
+  -  git remote add origin-pages https://${GH_TOKEN}@github.com/arpitajava/ZynlaNew.git
   -  git add .
   -  git commit -m "Travis build"
   -  git push origin master
