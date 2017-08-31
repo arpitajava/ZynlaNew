@@ -14,21 +14,17 @@ script:
   - npm run gbuild
   - npm install -g istanbul
   - istanbul cover node_modules/mocha/bin/_mocha test/*.js
-  - npm install coveralls --save-dev
   - istanbul report --dir coverage --include **/*coverage.json lcov
   - echo "Travis branch is $TRAVIS_BRANCH"
 env:
   global:
   - secure: "1fc3ac0a8700f017a012cec25ff044f5940225f4"
-after_script:
-    - npm run-script coveralls
+
 after_success:
-  -  git clone rails/rails 
   -  git config --global user.email "alivewithme@gmail.com"
   -  git config --global user.name "arpitajava"
-  -  git config --global user.pass "Arpitadas1234"
+  -  git config --global user.pass "..."
   -  git config --global -l
-  -  git remote add origin-pages https://${GH_TOKEN}@github.com/arpitajava/ZynlaNew.git
   -  git add .
   -  git commit -m "Travis build"
   -  git push origin master
