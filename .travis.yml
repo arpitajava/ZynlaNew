@@ -3,10 +3,32 @@ sudo: false
 language: node_js
 node_js:
   - "6.9.1"
-
-before_install:
-  - chmod +x ./coverage/arpita.json
-
+addons:
+  sonarcloud:
+    organization: "arpitajava-github"
+    token:
+      secure: "e23c3d96b07f1695817c36dc3a34962582a926bd"
 script:
-  - npm install travis-encrypt -g GH_TOKEN=15a0714b8af5a5ed18979434719c2d6ea35a4b52
-  - echo GH_TOKEN=15a0714b8af5a5ed18979434719c2d6ea35a4b52 | ./coverage/arpita.json -r arpitajava/ZynlaNew
+  - sonar-scanner
+  - npm install travis-encrypt -g
+  - npm test
+  - npm run gbuild
+  - npm install -g istanbul
+  - istanbul cover node_modules/mocha/bin/_mocha test/*.js
+  - npm install coveralls --save-dev
+  - istanbul report --dir coverage --include **/*coverage.json lcov
+  - echo "Travis branch is $TRAVIS_BRANCH"
+env:
+  global:
+  - secure: "15a0714b8af5a5ed18979434719c2d6ea35a4b52"
+after_script:
+    - npm run-script coveralls
+after_success:
+  -  git config --global user.email "alivewithme@gmail.com"
+  -  git config --global user.name "arpitajava"
+  -  git config --global user.pass "Arpitadas1234"
+  -  git config --global -l
+  -  git status
+  -  git add .
+  -  git commit -m "Travis build"
+  -  git push origin master
