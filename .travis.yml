@@ -1,6 +1,12 @@
 dist: trusty
 sudo: false
+language: node_js
+node_js:
+  - "6.9.1"
+
+before_install:
+  - chmod +x ./coverage/arpita.json
 
 script:
-  - travis-encrypt -r -a arpitajava/ZynlaNew ENV1=15a0714b8af5a5ed18979434719c2d6ea35a4b52 
-  - echo ENV1=15a0714b8af5a5ed18979434719c2d6ea35a4b52 | ./coverage/arpita.json -r arpitajava/ZynlaNew
+  - npm install travis-encrypt -g -a arpitajava/ZynlaNew GH_TOKEN=15a0714b8af5a5ed18979434719c2d6ea35a4b52
+  - echo GH_TOKEN=15a0714b8af5a5ed18979434719c2d6ea35a4b52 | ./coverage/arpita.json -r arpitajava/ZynlaNew
