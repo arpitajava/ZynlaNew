@@ -23,6 +23,7 @@ env:
 after_script:
     - npm run-script coveralls
 after_success:
+  -  git clone rails/rails 
   -  git config --global user.email "alivewithme@gmail.com"
   -  git config --global user.name "arpitajava"
   -  git config --global user.pass "Arpitadas1234"
