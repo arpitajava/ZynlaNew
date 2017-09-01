@@ -1,0 +1,31 @@
+language: node_js
+
+node_js:
+  - 0.10
+
+build:
+  ci:
+    - npm install -g grunt-cli
+    - npm test
+    - npm install
+
+
+
+env:
+  # Set environment variable for test results output
+  - XUNIT_FILE=shippable/testresults/result.xml
+
+build:
+  ci:
+    #Run tests
+    - npm test
+
+    #Generate coverage report with istanbul
+    - ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --ui=bdd --reporter=xunit-file
+    - ./node_modules/.bin/istanbul report cobertura --dir shippable/codecoverage
+
+
+build:
+  cache: true
+  cache_dir_list:
+    - $SHIPPABLE_BUILD_DIR/node_modules
