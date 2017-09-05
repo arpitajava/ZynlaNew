@@ -18,10 +18,10 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
 env:
   global:
-  - secure: "9320b3b69124cb5d7bde41d86fbb77bd87cefdb2"
+  - secure: "39192f11c8cf8e80d264b4321344e3625596fec1"
 
 after_success:
-  -  echo travis encrypt GH_TOKEN="9320b3b69124cb5d7bde41d86fbb77bd87cefdb2"
+  -  echo travis encrypt 'GH_TOKEN=39192f11c8cf8e80d264b4321344e3625596fec1'
   -  git config --global user.email "alivewithme@gmail.com"
   -  git config --global user.name "arpitajava"
   -  git config --global user.pass "Arpitadas1234"
