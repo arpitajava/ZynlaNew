@@ -18,7 +18,7 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
 env:
   global:
-  - secure: "1fc3ac0a8700f017a012cec25ff044f5940225f4"
+  - secure: "7e2d883f9fcd8308bfa429c395d9b50147feb072"
 
 after_success:
   -  gem install travis
