@@ -21,9 +21,10 @@ env:
   - secure: "1fc3ac0a8700f017a012cec25ff044f5940225f4"
 
 after_success:
+  -  gem install travis
   -  git config --global user.email "alivewithme@gmail.com"
   -  git config --global user.name "arpitajava"
-  -  git config --global user.pass "..."
+  -  git config --global user.pass "Arpitadas1234"
   -  git config --global -l
   -  git add .
   -  git commit -m "Travis build"
